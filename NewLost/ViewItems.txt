@@ -1,0 +1,7 @@
+<table>
+<?php
+$query = mysqli_query($conn, "SELECT from items"
+
+?>
+
+</table>
